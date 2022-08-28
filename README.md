@@ -2,6 +2,6 @@
 - 👀 Right now, I’m most interested in Frontend Development
 - 🌱 That’s why I’m currently learning HTML, CSS and Javascript
 - 💞️ And I’m looking for like-minded people to collaborate on small projects to grow on
-- ✨ Check out my personal Website Frontshape.de to get me know
+- ✨ Check out my personal Website www.frontshape.de to get me know
 - 📫 You can reach me at ron.wollschlaeger@gmail.com
 - 👋 Have a nice Day
