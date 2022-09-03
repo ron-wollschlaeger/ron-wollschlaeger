@@ -3,5 +3,5 @@
 - 🌱 That’s why I’m currently learning HTML, CSS and Javascript
 - 💞️ And I’m looking for like-minded people to collaborate on small projects to grow on
 - ✨ Check out my personal Website www.frontshape.de to get me know
-- 📫 You can reach me at ron.wollschlaeger@gmail.com
+- 📫 You can reach me at ron.wollschlaeger@frontshape.com
 - 👋 Have a nice Day
