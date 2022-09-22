@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pxMahio aka Ron and I’m from Germany
+- 👋 Hi, my name is Ron and I’m from Germany
 - 👀 Right now, I’m most interested in Frontend Development
 - 🌱 That’s why I’m currently learning HTML, CSS and Javascript
 - 💞️ And I’m looking for like-minded people to collaborate on small projects to grow on
