@@ -2,8 +2,8 @@
 <h3 align="center">a passionate self-taught web designer, UI/UX designer, and web developer. My love for the digital world has led me to create captivating and user-centric websites, focusing on both aesthetics and functionality. I thrive on exploring and enhancing the visual and interactive aspects of the web.</h3>
 
 - 🔭 I’m currently working on **completing projects and challenges on Frontendmentor.io and iCodeThis.com.**
-- 👯 Check out my progress on Frontendmentor.io: [https://www.frontendmentor.io/profile/ron-wollschlaeger](https://www.frontendmentor.io/profile/ron-wollschlaeger)
-- 🤝 Or on iCodeThis.com: [https://icodethis.com/RonW](https://icodethis.com/RonW)
+- 👯 Check out my progress on Frontendmentor.io: [frontendmentor.io](https://www.frontendmentor.io/profile/ron-wollschlaeger)
+- 🤝 Or on iCodeThis.com: [icodethis.com](https://icodethis.com/RonW)
 - 🌱 I’m currently learning **responsive web design and Javascript.**
 - 👨‍💻 All of my projects will be available at [https://www.frontshape.de/](https://www.frontshape.de/)
 - 📫 How to reach me **ron.wollschlaeger@frontshape.de**
