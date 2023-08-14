@@ -9,8 +9,8 @@
 - 📫 How to reach me **ron.wollschlaeger@frontshape.de**
 - 📄 Know about my experiences [https://www.linkedin.com/in/ron-wollschl%C3%A4ger/](https://www.linkedin.com/in/ron-wollschl%C3%A4ger/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/ron-wollschlaeger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ron-wollschlaeger" height="30" width="40" /></a>
 <a href="https://twitter.com/frontshape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frontshape" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ron-wollschl%c3%a4ger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ron-wollschl%c3%a4ger" height="30" width="40" /></a>
