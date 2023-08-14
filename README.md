@@ -5,9 +5,9 @@
 - 👯 Check out my progress on Frontendmentor.io: [frontendmentor.io](https://www.frontendmentor.io/profile/ron-wollschlaeger)
 - 🤝 Or on iCodeThis.com: [icodethis.com](https://icodethis.com/RonW)
 - 🌱 I’m currently learning **responsive web design and Javascript.**
-- 👨‍💻 All of my projects will be available at [https://www.frontshape.de/](https://www.frontshape.de/)
+- 👨‍💻 All of my projects will be available at [frontshape.de](https://www.frontshape.de/)
 - 📫 How to reach me **ron.wollschlaeger@frontshape.de**
-- 📄 Know about my experiences [https://www.linkedin.com/in/ron-wollschl%C3%A4ger/](https://www.linkedin.com/in/ron-wollschl%C3%A4ger/)
+- 📄 Know about my experiences [linkedin.com](https://www.linkedin.com/in/ron-wollschl%C3%A4ger/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
