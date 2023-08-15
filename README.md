@@ -11,10 +11,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/ron-wollschlaeger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ron-wollschlaeger" height="30" width="40" /></a>
-<a href="https://twitter.com/frontshape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frontshape" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ron-wollschl%c3%a4ger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ron-wollschl%c3%a4ger" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ron-wollschl%c3%a4ger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ron-wollschl%c3%a4ger" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100085403391874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100085403391874" height="30" width="40" /></a>
 <a href="https://instagram.com/frontshape.de/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frontshape.de/" height="30" width="40" /></a>
 <a href="https://dribbble.com/frontshape" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="frontshape" height="30" width="40" /></a>
