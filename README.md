@@ -2,7 +2,7 @@
 Hi 👋,<br>I'm Ron Wollschläger, a passionate self-taught web designer,<br>UI/UX designer, and web developer. My love for the digital world<br>has led me to create captivating and user-centric websites,<br>focusing on both aesthetics and functionality. I thrive on exploring<br>and enhancing the visual and interactive aspects of the web.
 
 ## 🌐 Socials:
-<a href="https://facebook.com/Ron Wollschläger" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="facebook logo"></a>
+<a href="https://facebook.com/Ron Wollschläger](https://www.facebook.com/profile.php?id=100085403391874" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="facebook logo"></a>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/Ron Wollschläger](https://www.facebook.com/profile.php?id=100085403391874)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ ron.wollschlaeger) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ron Wollschläger) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pxRonW) 
 
 # 💻 Tech Stack:
