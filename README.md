@@ -1,4 +1,4 @@
-# 👋 About Me:
+# 👋 Welcome:
 Hi, I'm Ron Wollschläger, a passionate self-taught web designer,<br>UI/UX designer, and web developer. My love for the digital world<br>has led me to create captivating and user-centric websites,<br>focusing on both aesthetics and functionality. I thrive on exploring<br>and enhancing the visual and interactive aspects of the web.
 
 ## 🌐 Socials:
