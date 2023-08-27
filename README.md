@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **completing projects and challenges on Frontendmentor.io and iCodeThis.com.**
 - 👯 Check out my progress on Frontendmentor.io: [frontendmentor.io](https://www.frontendmentor.io/profile/ron-wollschlaeger)
 - 🤝 Or on iCodeThis.com: [icodethis.com](https://icodethis.com/RonW)
-- 🌱 I’m currently learning **responsive web design and Javascript.**
+- 🌱 I’m currently learning **Javascript + Tailwind**
 - 👨‍💻 All of my projects will be available at [frontshape.de](https://www.frontshape.de/)
 - 📫 How to reach me **ron.wollschlaeger@frontshape.de**
 - 📄 Know about my experiences [linkedin.com](https://www.linkedin.com/in/ron-wollschl%C3%A4ger/)
