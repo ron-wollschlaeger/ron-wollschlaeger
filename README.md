@@ -1,5 +1,5 @@
 # 👋 Welcome:
-Hi, I'm Ron Wollschläger, a passionate self-taught web designer, UI/UX designer, and web developer. My love for the digital world has led me to create captivating and user-centric websites, focusing on both aesthetics and functionality. I thrive on exploring and enhancing the visual and interactive aspects of the web.
+Hi, I'm Ron Wollschläger, a passionate self-taught web designer, UI/UX designer, and web developer. My love for the digital world has led me to create captivating and user-centric websites, focusing on both aesthetics and functionality. I thrive on exploring and enhancing the visual and interactive aspects of the web. 
 
 ## 🌐 Socials:
 <a href="https://www.instagram.com/ron.wollschlaeger/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="instagram logo"></a>
